@@ -1,4 +1,3 @@
-
 def seasons(season):
     # Variable to hold gardening advice
     # Determine advice based on the season
@@ -42,7 +41,3 @@ plant_types_var = plant_types(plant_type)
 
 # Print the generated advice
 print(season_var+plant_types_var)
-
-
-
-
